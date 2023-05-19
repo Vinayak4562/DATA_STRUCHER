@@ -1,0 +1,3 @@
+Heap is also a data structure or memory used to store the global variables. By default, 
+all the global variables are stored in the heap memory. It allows dynamic memory allocation. 
+The heap memory is not managed by CPU. Heap data structure can be implemented either using arrays or trees.

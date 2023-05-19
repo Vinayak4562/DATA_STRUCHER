@@ -1,0 +1,2 @@
+A Stack is a data structure that is used for organizing the data. 
+Stack is similar to the stack a way organizing the objects in the real world

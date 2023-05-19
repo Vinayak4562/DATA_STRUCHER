@@ -1,0 +1,4 @@
+1. https://vinayak.com valid 
+2.https ://m, invalid 
+3. https://havannavar valid 
+4.https://vinayak@com invalid 
